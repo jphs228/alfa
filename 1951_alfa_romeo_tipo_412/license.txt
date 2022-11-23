@@ -1,0 +1,11 @@
+Model Information:
+* title:	1951 Alfa Romeo Tipo 412
+* source:	https://sketchfab.com/3d-models/1951-alfa-romeo-tipo-412-299af3acb90743d59b6d9e4f61891339
+* author:	Carrozze DÄULARI (https://sketchfab.com/alhertenberger)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "1951 Alfa Romeo Tipo 412" (https://sketchfab.com/3d-models/1951-alfa-romeo-tipo-412-299af3acb90743d59b6d9e4f61891339) by Carrozze DÄULARI (https://sketchfab.com/alhertenberger) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
